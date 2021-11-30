@@ -1,6 +1,9 @@
 # gorm-opentelemetry
 [![Test Status](https://github.com/kostyay/gorm-opentelemetry/workflows/Test/badge.svg)](github.com/kostyay/gorm-opentelemetry/actions)
 
+
+**Updated Otel and Gorm pkg Versions**
+
 OpenTelemetry plugin for GORM v2
 
 Traces all queries along with the query SQL.
